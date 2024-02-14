@@ -86,7 +86,7 @@ Le *Chargé de mission* à accès à trois pages différentes :
 
 **Profil Technicien**
 
-Le mot de passe initial pour le *Chargé de mission* est `technicien`.
+Le mot de passe initial pour le *Technicien* est `technicien`.
 
 Le *Technicien* à accès à deux pages différentes :
 - Le plan d'expérimentation, sur lequel il peut voir les demandes d'installations ou de retrait d'un système d'acquisition dans une salle et les valider lorsque la demande est traitée.
