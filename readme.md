@@ -68,6 +68,8 @@ description du projet. Vous pouvez vous connecter sur le profil de votre choix e
 
 **Profil Chargé de Mission**
 
+Le mot de passe initial pour le *Chargé de mission* est `chargemission`.
+
 Le *Chargé de mission* à accès à trois pages différentes :
 - Le tableau de bord sur lequel il peut voir une vision globale de ses expérimentations en cours et des salles de l'IUT.
 - La page de gestion des expérimentations sur laquelle il peut ajouter et supprimer des salles au plan d'expérimentation.
@@ -83,6 +85,8 @@ Le *Chargé de mission* à accès à trois pages différentes :
 ---
 
 **Profil Technicien**
+
+Le mot de passe initial pour le *Chargé de mission* est `technicien`.
 
 Le *Technicien* à accès à deux pages différentes :
 - Le plan d'expérimentation, sur lequel il peut voir les demandes d'installations ou de retrait d'un système d'acquisition dans une salle et les valider lorsque la demande est traitée.
