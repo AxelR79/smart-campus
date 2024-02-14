@@ -22,6 +22,8 @@ git clone https://forge.iut-larochelle.fr/2023-2024-but-info2-a-sae34/l2/l22/sae
 
 ### Lancement du projet
 
+Il vous faudra tout d'abord déplacer le fichier `.env` à la racine du projet `sfapp` pour que la lecture des variables d'environnements se fasse correctement.
+
 Une fois le projet cloné, vous aurez besoin de docker afin de lancer la stack de développement avec la commande :
 ```bash
 docker compose up --build
